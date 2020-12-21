@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\GitHub\AuthGUI-CPP\Auth\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Auth.vcxproj -> D:\GitHub\AuthGUI-CPP\Auth\x64\Debug\Auth.exe
